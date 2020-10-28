@@ -1,1 +1,1 @@
-# 189-project-s-early-dataset
+# CS189-Early-Project-S-Dataset
